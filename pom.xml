@@ -18,7 +18,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.jboss.aerogear.com.google.android.gcm</groupId>
     <artifactId>server</artifactId>
-    <version>1.0</version>
+    <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>GCM Server Utility Library</name>
     
