@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
 
-    Copyright (C) 2015 Summers Pittman (secondsun@gmail.com)
-
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
@@ -22,7 +20,7 @@
     <artifactId>server</artifactId>
     <version>1.0</version>
     <packaging>jar</packaging>
-    <inceptionYear>2015</inceptionYear>
+    <name>GCM Server Utility Library</name>
     
 
     <parent>
